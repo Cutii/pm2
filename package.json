@@ -1,5 +1,5 @@
 {
-  "name": "pm2",
+  "name": "@cutii/pm2",
   "preferGlobal": true,
   "version": "2.9.1",
   "engines": {
